@@ -1,33 +1,31 @@
-## Who We Are
+# IoT Forge
 
-We are [IoT Forge Community](https://iotforge.io). We serve as a nexus for collaboration, knowledge sharing, and transformative solutions that cater to the surging demand for IoT implementations, in various domains including industrial IoT and Industry 4.0.
+**Makers building DIY IoT projects and touring the best tech events.**
 
-## Our Mission
+We film robots, AI and maker builds at events like Maker Faire, Open Sauce, Google Cloud Next and BattleBots, and we build our own hardware along the way. This is where the code for those builds lives. Makers and engineers of every level are welcome. We love working prototypes and any level of engineering "craziness."
 
-We want to increase IoT awareness and expertise. We support initiatives to design and develop working prototypes/MVPs for various use-cases in IoT area. We accept any level of engineering ‘craziness’ and strongly encourage fun!
+## 🔧 Projects
 
-## The Advantages of Applying the Internet of Things
+| Project | What it is | Stack |
+|---|---|---|
+| [mono-arcade](https://github.com/iot-forge/mono-arcade) | A one-dimensional LED-strip tower defense game with arcade buttons, LED rings and a leaderboard | C++, Raspberry Pi Pico, MQTT |
+| [Stoop](https://github.com/iot-forge/Stoop) | Turns front-door events into decisions you can act on: Ring webhooks and history in, routines out | Python, SQLite, home automation |
+| [mdds30_ros2_controller](https://github.com/iot-forge/mdds30_ros2_controller) | ROS 2 package for driving the Cytron MDDS30 dual-channel 30A motor driver, with joystick/gamepad control | Python, ROS 2 |
+| [m5stack-skills](https://github.com/iot-forge/m5stack-skills) | Claude Code skills for M5Stack firmware development: board pinouts, peripherals and ESP32 chip capabilities | ESP32, ESP-IDF, M5Stack |
+| [iotforge.io](https://github.com/iot-forge/iotforge.io) | Source for our website: articles, comics and podcast episodes | HTML |
 
-### Increased Productivity
+## 📺 Watch, listen, follow
 
-> The Internet of Things has the potential to significantly improve productivity across various industries by enabling smarter and more efficient processes. Here are some ways in which IoT contributes to productivity enhancement: Real-time Remote Monitoring & Control, Predictive Maintenance, Process Optimization, Supply Chain Efficiency, Operational Efficiency, Data-Driven Decision etc.
+- 🎬 **YouTube:** [@IoTForge](https://www.youtube.com/@IoTForge?sub_confirmation=1), with new videos about 6 times a week
+- 🎧 **Podcast:** [IoT Forge Unplugged on Spotify](https://open.spotify.com/show/2ErEJVEO6MzooaQbb1YIOO)
+- 🌐 **Website:** [iotforge.io](https://iotforge.io)
+- 🛒 **Merch:** [iotforge.store](https://iotforge.store?utm_source=github&utm_medium=profile)
+- 💬 **Community:** [Telegram](https://t.me/IoTForge) · [X](https://x.com/IoT_Forge) · [Instagram](https://www.instagram.com/iot.forge) · [Facebook](https://www.facebook.com/iotforge)
 
-### Decreased Expenses
+## 🤝 Get involved
 
-> The implementation of the Internet of Things can lead to significant cost savings for businesses and organizations across various sectors. Here are some ways in which IoT can help decrease expenses: Energy Management, Inventory Management, Quality Control, Healthcare and Asset Tracking, Smart Building Solutions, Prevent Insurance Costs, Fleet Management, Labor Optimization etc.
+Found a bug, built something with our code, or want us to feature your project? Open an issue in any repo or email **team@iotforge.org**.
 
-### Enhanced Client Relationship
+## Core team
 
-> The Internet of Things can significantly enhance client relationships by enabling businesses to provide more personalized, efficient, and value-added experiences. Here's how IoT can contribute to strengthening client relationships: Personalized Experiences, Real-time Communication, Proactive Support and Issue Resolution, Predictive Insights, Data Transparency and Trust, Continuous Improvement, Subscription and Service Models, Feedback and Collaboration, Enhanced Loyalty Programs etc.
-
-### Increased Capital Allocation
-
-> The integration of the Internet of Things can have a positive impact on capital allocation within businesses and organizations. By optimizing operations, improving efficiency, and reducing costs, IoT can free up capital that can be strategically allocated to other areas. Here's how IoT can contribute to increased capital allocation: Cost Reduction, Improved Asset Utilization, Smarter Inventory Management, Strategic Investments, Customer-Centric Initiatives, Innovation and Research etc.
-
-# Core Team:
-
-- [Ihar Chaliadzinau](https://wearecommunity.io/communities/rust)
-- [Konstantin Barabanoff](https://www.linkedin.com/in/konstantinbarabanoff/)
-- [Kostiantyn Kazymirov](https://www.linkedin.com/in/konstantinkasimirov/)
-- [Pavel Korshunov](https://www.linkedin.com/in/pavel-korshunov-a21564287/)
-- [Uladzislau Bayouski](https://www.linkedin.com/in/uladzislau-bayouski-a7474111b/)
+Ihar Chaliadzinau · Konstantin Barabanoff · Kostiantyn Kazymirov · Pavel Korshunov · Uladzislau Bayouski
